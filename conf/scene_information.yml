@@ -1,0 +1,16 @@
+%YAML:1.0
+# Width between two calibration bands -Unit meter x
+width_band: 3.5300
+# location interval of calibration board in each calibration band  y (Unit meter)m
+num_boards: 4
+dist_board_1: 0.0
+dist_board_2: 3.0
+dist_board_3: 8.0
+dist_board_4: 15.0
+
+# size of Brid View image
+bridview_width: 440
+bridview_height: 640
+# Each pixel represents n (cm) in brid view image
+each_pixel_size: 10.0
+

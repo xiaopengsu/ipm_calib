@@ -1,0 +1,4 @@
+run example:
+./ipm_calib_video -v=../data/5.avi
+./ipm_calib_video_un -v=../data/Img297.png
+
