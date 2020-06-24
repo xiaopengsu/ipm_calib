@@ -34,3 +34,7 @@
 ![坐标变换示意图](https://github.com/xiaopengsu/ipm_calib/blob/master/theory_image/IPM_s.png)  
 ![园区内部标定](https://github.com/xiaopengsu/ipm_calib/blob/master/theory_image/bird_view_long.png)
 
+
+# H矩阵测距测试
+![H矩阵测距测试效果](https://github.com/xiaopengsu/ipm_calib/blob/master/bird_view_dist.png)
+get_distance_test.m //matlab的测距验证
